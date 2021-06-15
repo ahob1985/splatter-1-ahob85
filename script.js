@@ -54,5 +54,7 @@ function drawEllipse() {
 *******************************************************************************/
 
 function drawSplatter(){
-
+  fill(random(100, 256), random(100, 256), random(100, 256));
+  noStroke();
+  
 }

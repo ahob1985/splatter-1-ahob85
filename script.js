@@ -42,7 +42,6 @@ function drawEllipse() {
   ellipse(mouseX, mouseY, 100);
 }
 
-
 /******************************************************************************
                               drawSplatter()
 
